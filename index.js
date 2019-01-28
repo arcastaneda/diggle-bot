@@ -8,8 +8,8 @@
 var axios = require('axios');
 
 //variables that eventually need to be hidden in config files
-var BOT_TOKEN = "xoxb-481884320565-530517271680-y53qdBO8dxVy52fmk7Pwshpy" ;
-var API_TOKEN = 'xoxp-481884320565-483088913542-532670345366-699c16ac12a307b106312306b6c3a38e';
+var BOT_TOKEN = "{your bot token here}" ;
+var API_TOKEN = '{your api token here}';
 var SLACK_URL = "https://slack.com/api/chat.postMessage" ;
 
 module.exports = async function (context, data){
