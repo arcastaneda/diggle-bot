@@ -1,4 +1,6 @@
 # diggle-bot
+(1/28 - still under construction)
+
 A simple Slack chatbot integration using Azure Functions
 
 
